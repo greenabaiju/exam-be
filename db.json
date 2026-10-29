@@ -1,0 +1,19 @@
+{
+  "student": [
+    {
+      "studname": "Greena",
+      "email": "greena@gmail.com",
+      "course": "Mernn",
+      "phone": "123456",
+      "id": "sQj3ScIS0lo"
+    },
+    {
+      "studname": "Ammu",
+      "email": "ammu@gmail.com",
+      "course": "Python",
+      "phone": "123456",
+      "id": "uNZUEov-zEg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
